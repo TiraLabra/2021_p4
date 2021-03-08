@@ -88,8 +88,8 @@ This is very personal. Different people find different things challenging.
 
 Typically comparing path finding algorithms, compression algorithms and map generators have been some of the easier projects.
 
-* Pathfinding using the 2d maps from [Movin ai labs](https://movingai.com/benchmarks/grids.html), Using BFS and/or Dijkstra as well as A* shuold pass. Adding JPS should get a 5 with a good project.
-* Huffman or some LZ compression should pass. Implementing both (or adding something else) is likely to get a 5.
+* Pathfinding using the 2d maps from [Movin ai labs](https://movingai.com/benchmarks/grids.html) is fairly simple, if you use ASCII graphic for visualization. Dijkstra vs JPS or IDA* is complex enough to get a 5 with a good project. Dijkstra vs A* will not pass, because Dijkstra is included in prerequisites and A* is almost the same code.
+* Huffman compression should pass well. Implementing also some other compression algorithm is likely to get a 5.
 * Generating dungeons or maps with a few different algorithms should pretty easily pass, and is fairly easy to expand to something that should be worhty of grade 5.
 
 You should discuss with a course assistant.
