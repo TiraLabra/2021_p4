@@ -1,16 +1,15 @@
 % Datastructures and Algorithms Lab
 % Introductory lecture for BSc students
-% Saska Dönges - 28.10.2020
+% Hannu Kärnä - 17.3.2021
 
 # Course assistants
 
 - Course assistants
-    - Saska Dönges -- **saskeli** -- first-name.last-name@helsinki.fi
     - Hannu Kärnä -- first_name.last_name@helsinki.fi
 - Contact via e-mail or the course telegram channel
 
 - Telegram channel https://t.me/tkttiralabra/ (will contain discourse in Finnish)
-- Course page https://tiralabra.github.io/2020_p2/en
+- Course page https://tiralabra.github.io/2021_p4/en
 
 # What?
 
@@ -114,6 +113,6 @@
 # Thank you!
 
 - **Welcome to the course!**
-- Most information about the course can be found at: https://tiralabra.github.io/2020_p2/en
+- Most information about the course can be found at: https://tiralabra.github.io/2021_p4/en
     - It's a good idea to read through the entire site!
 - I will stay for a while to answer any questions you may have!
