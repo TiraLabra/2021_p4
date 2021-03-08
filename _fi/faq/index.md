@@ -89,7 +89,7 @@ Tämä on todella henkilökohtaista, eri henkilöille erilaiset projektit ovat e
 
 Tyypillisesti reittialgoritmivertailut, pakkausalgoritmit ja luolastogeneraattorit ovat olleet yksinkertaisemmasta päästä.
 
-* Reitinhaku [Movin ai labs](https://movingai.com/benchmarks/grids.html) 2d kartoilla on melko nopea toteuttaa, jos visualisointi on tekstigrafiikkana. Dijkstra vs JPS tai IDA* riittää hyvällä toteutuksella viitoseen.
+* Reitinhaku [Movin ai labs](https://movingai.com/benchmarks/grids.html) 2d kartoilla on melko nopea toteuttaa, jos visualisointi on tekstigrafiikkana. Dijkstra vs JPS tai IDA* riittää hyvällä toteutuksella viitoseen. Dijkstra vs A* ei riitä läpäisyyn, koska Dijkstra kuuluu esitietoihin ja A* on lähes sama koodi.
 * Huffman pakkauksen toteuttamalla pääsee hyvin läpi. Toteuttamalla sen lisäksi jonkin muun pakkauksen on hyvät saumat vitoseen.
 * Luolastojen tai karttojen generointi parilla erilaisella algoritmilla riittää aika helposti läpipääsyn ja on suhteellisen yksinkertaisesti laajennettavissa vitosen arvoiseen suoritukseen.
 
