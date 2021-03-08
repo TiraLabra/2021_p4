@@ -38,7 +38,7 @@ Available fields for TAs:
 const tas = [
     //{"name": "Matti Nykänen", "email": "matti@matti.fi", "fiSocial": "maatti @IRCnet", "enSocial": "TG: @mattimatti"},
     {"name": "Hannu Kärnä (fi)", "social": "TG: Hannu Kärnä"},
-    {"name": "Saska Dönges (en)", "social": "TG: @saskeli"},
+    //{"name": "Saska Dönges (en)", "social": "TG: @saskeli"},
 ];
 
 const enDays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
