@@ -1,16 +1,15 @@
 % Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit (Tiralabra)
 % Hannu Kärnä
-% 28.10.2020
+% 17.3.2021
 
 # Ohjaajat
 
 - Ohjaajat
     - Hannu Kärnä -- etunimi.sukunimi@helsinki.fi
-    - Saska Dönges -- **saskeli** -- etunimi.sukunimi@helsinki.fi
 - Yhteyttä sähköpostilla tai telegrammissa kurssikanavalla
 
 - Telegram-kanava https://t.me/tkttiralabra/
-- Kurssisivu https://tiralabra.github.io/2020_p2/
+- Kurssisivu https://tiralabra.github.io/2021_p4/
 
 # Mistä kyse?
 
@@ -53,7 +52,7 @@
 # Koodaustyyli
 
 - Kurssilla edellytetään että kirjoitettu koodi on laadukasta ja helppolukuista. Kannattaa käyttää tyylitarkastusta. Esim java checkstyle.
-- Projektin nimen olisi syytä olla kuvaava. Ohjaajalta menee hermo jos kaikkien projektien nimet ovat taas variaatioita nimestä "Tiralabra-2020".
+- Projektin nimen olisi syytä olla kuvaava. Ohjaajalta menee hermo jos kaikkien projektien nimet ovat taas variaatioita nimestä "Tiralabra-2021".
 - Sovelletaan OT kurssilla opittuja projektirakenteita.
     - Ei kaikki koodi projektin juureen samaan tiedostoon.
 - Sovelletaan myös muita hyvän koodaustyylin perjaatteita kuten DRY ja Single responsibility.
@@ -112,6 +111,6 @@
 # Kiitos!
 
 - **Tervetuloa kurssille!**
-- Kaikki tarvittava löytyy kurssisivulta: https://tiralabra.github.io/2020_p2/
+- Kaikki tarvittava löytyy kurssisivulta: https://tiralabra.github.io/2021_p4/
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Jään hetkeksi paikalle luennon jälkeen vastailemaan kysymyksiin
