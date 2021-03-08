@@ -177,7 +177,7 @@ Generally a good approach to incrementally complete a project has been to first 
 
 (All in all 60 p)
 
-For a passing grade the project needs to contain self-made implementations for data structures and algorithms. Every project is separately graded. Below are typical gradings based on points.
+For a passing grade the project needs to contain self-made implementations for data structures and algorithms. Every project is separately graded. Below are typical gradings based on points. For grade 5 the following is needed, in addition to adequate number of points: testing is comprehensive, documentation is immaculate and both peer reviews have been made according to the instructions.
 
 * 5: 50 p
 * 4: 45 p
