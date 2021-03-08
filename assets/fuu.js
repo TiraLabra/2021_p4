@@ -1,5 +1,5 @@
 const timing = {
-    "start": {"date": "2020-10-28", "fi": "Aloitusluento", "en": "Mandatory lecture", "common": "12-14 Zoom"},
+    "start": {"date": "2021-03-17", "fi": "Aloitusluento", "en": "Mandatory lecture", "common": "16.15-18 Zoom"},
    /* "paja1": {"date": "2020-09-07", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
     "paja2": {"date": "2020-09-08", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
     "paja3": {"date": "2020-09-14", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
@@ -22,7 +22,7 @@ const timing = {
     "end": {"date": "2020-12-19T23:59:59+02:00", "en": "Final submission", "fi": "Loppupalautus"}
 };
 
-const doodleSent = true;
+const doodleSent = false;
 
 /*
 Available fields for TAs:
