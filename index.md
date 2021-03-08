@@ -184,7 +184,7 @@ Hyväksi koettu tapa tehdä työ vaiheittain on laittaa ensin kuntoon algoritmin
 
 (Yhteensä 60 p)
 
-Kurssin hyväksytysti suorittaminen vaatii ohjelmalta itsetoteutettuja tietorakenteita sekä toiminnallisuutta. Kukin työ arvioidaan omana kokonaisuutenaan, alla viitteelliset pisterajat.
+Kurssin hyväksytysti suorittaminen vaatii ohjelmalta itsetoteutettuja tietorakenteita sekä toiminnallisuutta. Kukin työ arvioidaan omana kokonaisuutenaan, alla viitteelliset pisterajat. Arvosanaan 5 edellytetään riittävän pistemäärän lisäksi, että projektin laajuus on riittävä, testaus on vakuuttava, dokumentaatio on moitteeton ja molemmat vertaisarviot on tehty ohjeiden mukaisesti.
 
 * 5: 50 p
 * 4: 45 p
