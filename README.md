@@ -1,4 +1,4 @@
-# Actual course page is at [https://TiraLabra.github.io/2020_p2/](https://TiraLabra.github.io/2020_p2/)
+# Actual course page is at [https://TiraLabra.github.io/2021_p3/](https://TiraLabra.github.io/2021_p3/)
 
 # TL/DR
 
@@ -25,7 +25,7 @@ On GitHub it's not possible to have forks of repositories in the same organizati
 
 ```bash
 <new repo>$ cp -r ../<old repo>/* .
-<new repo>$ cp ../.gitignore .
+<new repo>$ cp ../<old repo>/.gitignore .
 <new repo>$ git add .gitignore
 <new repo>$ git add .
 <new repo>$ git commit -m "init course page"
