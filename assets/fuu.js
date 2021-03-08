@@ -11,15 +11,15 @@ const timing = {
     "paja10": {"date": "2020-10-06", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"},
     "paja11": {"date": "2020-10-12", "en": "Workshop", "fi": "Paja", "common": "12-14 & 16-18 Zoom"},
     "paja12": {"date": "2020-10-13", "en": "Workshop", "fi": "Paja", "common": "12-16 Zoom"}, */
-    "dl1": {"date": "2020-10-31T01:59:59+02:00", "en": "DL 1", "fi": "DL 1"},
-    "dl2": {"date": "2020-11-07T01:59:59+02:00", "en": "DL 2", "fi": "DL 2"},
-    "dl3": {"date": "2020-11-14T01:59:59+02:00", "en": "DL 3", "fi": "DL 3"},
-    "dl4": {"date": "2020-11-21T01:59:59+02:00", "en": "DL 4", "fi": "DL 4"},
-    "dl5": {"date": "2020-11-28T01:59:59+02:00", "en": "DL 5", "fi": "DL 5"},
-    "dl6": {"date": "2020-12-05T01:59:59+02:00", "en": "DL 6", "fi": "DL 6"},
+    "dl1": {"date": "2021-03-20T01:59:59+02:00", "en": "DL 1", "fi": "DL 1"},
+    "dl2": {"date": "2021-03-27T01:59:59+02:00", "en": "DL 2", "fi": "DL 2"},
+    "dl3": {"date": "2021-04-03T01:59:59+02:00", "en": "DL 3", "fi": "DL 3"},
+    "dl4": {"date": "2021-04-10T01:59:59+02:00", "en": "DL 4", "fi": "DL 4"},
+    "dl5": {"date": "2021-04-17T01:59:59+02:00", "en": "DL 5", "fi": "DL 5"},
+    "dl6": {"date": "2021-04-24T01:59:59+02:00", "en": "DL 6", "fi": "DL 6"},
     /*"demo": {"date": "2020-06-24", "fi": "Demotilaisuus", "en": "Demo Session", "common": "12-14 Zoom"},
     "demo2": {"date": "2020-06-24", "fi": "Demotilaisuus", "en": "Demo Session", "common": "16-18 Zoom"},*/
-    "end": {"date": "2020-12-19T23:59:59+02:00", "en": "Final submission", "fi": "Loppupalautus"}
+    "end": {"date": "2021-05-08T23:59:59+02:00", "en": "Final submission", "fi": "Loppupalautus"}
 };
 
 const doodleSent = false;
