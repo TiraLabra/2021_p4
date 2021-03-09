@@ -172,8 +172,8 @@ Generally a good approach to incrementally complete a project has been to first 
     * User guide 2p
 
 * During the course 20p
-    * Code reviews 2 * 2p = 4p
-    * Weekly submissions 1p + 5 x 3p = 16 p
+    * Code reviews 2 * 4p = 8p
+    * Weekly submissions 6 x 2p = 12 p
 
 (All in all 60 p)
 
