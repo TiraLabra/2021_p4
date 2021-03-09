@@ -13,7 +13,7 @@
 
 # What?
 
-- On the course you will implement some program that utilizes "difficult" algorithm(s)/data structure(s) including all of the required data structure and algorithms
+- On the course you will implement some program that utilizes "difficult" algorithm(s)/data structure(s) including all of the required data structures and algorithms. Everything included in the prerequisites is considered trivial. Eg. a purely brute force sudoku solver is not a suitable topic.
 
 # Prerequisite knowledge
 
