@@ -15,7 +15,7 @@ Aiheen voi keksiä itse, tai valita alla olevasta listasta itselleen mielenkiint
 
 * Miten löydetään tehokkaasti nopein/lyhin reitti verkossa kahden pisteen välillä. Verkon pisteet voivat olla esimerkiksi katuosoitteita, joukkoliikenteen pysäkkejä tai koordinaatteja. Hyvä artikkeli aiheesta: http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html
 
-* huom: pelkkä A-star ei riitä aiheeksi, vaan esim. vähintään kahden eri reitinhakualgoritmin vertailu.
+* Vähintään kahden eri reitinhakualgoritmin vertailu, joista toinen poikkeaa riittävästi esitietoihin kuuluvista Tira-kurssilla opituista. Esim. JPS, IDA*, fringe search (varsin vaativa). A* ei kelpaa, ellei projektissa ole muuta algoritmista vaativuutta riittävästi.
 
 * Karttoja reitinhakutöihin löytyy esimerkiksi [Moving AI Lab](http://www.movingai.com/benchmarks/):in sivuilta tai maanminttauslaitoksen karttojen [lataus](http://kartat.kapsi.fi/) sivustolta.
 
