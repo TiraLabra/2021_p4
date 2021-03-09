@@ -78,7 +78,7 @@ Tavallaan ei. Mutta vähän riippuen tapauksesta se voi olla käytännössä vä
 * `n = max(a, b);` on sama kuin `n = a > b ? a : b;`. Eli ei juurikaan syytä käyttää valmista.
 * `n = abs(n);` on sama kuin `n = n > 0 ? n : -n;`. Eli ei juurikaan syytä käyttää valmista.
 * `Math.Pi` on oleellisesti vain vakio, joten siihen on turha erikseen käyttää importtia ellei se muutenkin ole käytössä.
-* **Logaritmeja** on käytännössä mahdoton toteuttaa itse yhtä tehokkaasti kuin javan standardikirjastossa. Optimi olisi että testaat omalla ratkaisulla ja raportoit kuinka paljon hitaampi se on kuin valmis ratkaisu, ja lopullisessa versiossa käytät valmista versiota jos nopeusero on merkittävä. (Kirjoita tästä dokumentaatioon.)
+* **Logaritmeja** on käytännössä mahdoton toteuttaa itse yhtä tehokkaasti kuin javan standardikirjastossa. 
 * **Neliöjuurilla** on sama tilanne kuin logaritmeilla.
 * **Sin**, **Cos**, **Tan**. Trigonometrisissä funktioissa täysin sama kun logaritmeissa ja neliöjuuressa.
 
