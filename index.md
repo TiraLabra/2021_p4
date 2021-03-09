@@ -179,8 +179,8 @@ Hyväksi koettu tapa tehdä työ vaiheittain on laittaa ensin kuntoon algoritmin
     * Käyttöohje 2p
 
 * Arvostelu kurssin aikana 20p
-    * Vertaisarvioinnit 2 * 2p = 4p
-    * Viikkopalautukset 1p +  5 x 3p = 16 p
+    * Vertaisarvioinnit 2 * 4p = 8p
+    * Viikkopalautukset 6 x 2p = 12 p
 
 (Yhteensä 60 p)
 
