@@ -13,7 +13,7 @@
 
 # Mistä kyse?
 
-- Kurssilla toteutetaan itse jokin "hankalaa" algoritmia/algoritmejä käyttävä ohjelma ja kaikki ohjelman käyttämät tietorakenteet.
+- Kurssilla toteutetaan itse jokin "hankalaa" algoritmia/algoritmejä käyttävä ohjelma ja kaikki ohjelman käyttämät tietorakenteet. Esitietoihin kuuluvalla Tira-kurssilla opitut asiat eivät täytä tätä määritelmää. Esim. täysin brute force sudoku-ratkaisija ei käy aiheeksi, se on joskus ollut tehtävänä jo Ohjelmoinnin jatkokurssilla.
 
 # Esitietovaatimukset
 
