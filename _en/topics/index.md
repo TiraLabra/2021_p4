@@ -14,7 +14,7 @@ You can either come up with your own topic or pick one from the ones below. The 
 
 * How to find the fastest/shortest path between two nodes in a grapth. The nodes could be for isntance street addresses, bus stops or coordinates. See this article if interested: http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html
 
-* Note: Just A-star is not a sufficient topic. But you could for instance compare different path finding algorithms.
+* Compare at least two different path finding algorithms, one of which differs clearly from what you have learnt in Data structures and algorithms course. Eg. JPS, IDA*, fringe search (complicated). A-star is not sufficient for the demanding algorithm.
 
 * Maps for pathfinding can be found at [Moving AI Lab](http://www.movingai.com/benchmarks/) and the [downloads site](http://kartat.kapsi.fi/) for the National Land Survey of Finland.
 
