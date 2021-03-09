@@ -78,7 +78,7 @@ Sort of no. But depending on the case it may be almost required.
 * `n = max(a, b);` is the same as `n = a > b ? a : b;`. So there is really no reason to use `Math`.
 * `n = abs(n);` is the same as `n = n > 0 ? n : -n;`. So there is really no reason to use `Math`.
 * `Math.Pi` is essentially a constant, so no real reason to separately import unless `Math` is already available.
-* **Logarithms** are practically impossible to implementa as efficiently as the java standard library. The optimum would be to implement your own version and test how much worse it is, and the use `Math` in the final product if  the difference in speed is significant. (Mention this in documentation.)
+* **Logarithms** are practically impossible to implementa as efficiently as the java standard library. 
 * **Square roots** are ery similar to logarithms in this case.
 * **Sin**, **Cos**, **Tan**. Trigonometric functions work the same as logarithm and square roots.
 
