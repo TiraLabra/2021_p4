@@ -17,6 +17,8 @@ Aiheen voi keksiä itse, tai valita alla olevasta listasta itselleen mielenkiint
 
 * Vähintään kahden eri reitinhakualgoritmin vertailu, joista toinen poikkeaa riittävästi esitietoihin kuuluvista Tira-kurssilla opituista. Esim. JPS, IDA*, fringe search (varsin vaativa). A* ei kelpaa, ellei projektissa ole muuta algoritmista vaativuutta riittävästi.
 
+* Reitinhakualgoritmien vertailussa on syytä heti alkuun toteuttaa löydetyn reitin ja läpikäytyjen solmujen / hyppypisteiden visualisointi. Ilman sitä on aika työlästä selvittää toimiiko algoritmi oikein. Vaikka kartan mukana olisi etäisyystietoja, joihin voi verrata lasketun reitin pituutta, ei oikean pituinen reitti takaa, että algoritmi toimii niin kuin sen pitäisi ja niin tehokkaasti kuin sen kuuluu toimia. Visualisointi paitsi auttaa valmiin työn oikeellisuuden toteamisessa, nopeuttaa myös virheiden löytämistä ohjelman laatimisen aikana.
+
 * Karttoja reitinhakutöihin löytyy esimerkiksi [Moving AI Lab](http://www.movingai.com/benchmarks/):in sivuilta tai maanminttauslaitoksen karttojen [lataus](http://kartat.kapsi.fi/) sivustolta.
 
 * Myös joukkoliikenteen reitti/aikataulut [https://developers.google.com/transit/gtfs/](https://developers.google.com/transit/gtfs/) tai [https://digitransit.fi/en/developers/](https://digitransit.fi/en/developers/) ja avoin karttadata [https://www.openstreetmap.org](https://www.openstreetmap.org) ovat olleet suosittuja.
