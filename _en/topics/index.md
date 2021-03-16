@@ -42,7 +42,7 @@ You can either come up with your own topic or pick one from the ones below. The 
 
 * [halite](https://halite.io/) AI. Or any other similar online AI challenge.
 
-## Computational Creativity
+## Computational creativity
 Creativity can be implemented e.g. with genetic algorithms or Markov chains. A Markov chain is a stochastic process where each state depends only on the previous state or a fixed number of previous states. You can generate for example natural like words or sentences with them. Some previous projects have been on Markov chains for composing music.
 
 ## Dungeon generator
