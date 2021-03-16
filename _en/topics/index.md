@@ -18,6 +18,8 @@ You can either come up with your own topic or pick one from the ones below. The 
 
 * Maps for pathfinding can be found at [Moving AI Lab](http://www.movingai.com/benchmarks/) and the [downloads site](http://kartat.kapsi.fi/) for the National Land Survey of Finland.
 
+* Implement a visualization of the path and covered nodes / jump points at early stage of development. Otherwise it is difficult to see whether the algorithm is correct. Although there may be data of certain paths and their lengths with your maps, a correct length does not guarantee that the algorithm works like it should. The visualization helps both checking the correctness of a complete work and finding errors during the development.
+
 * Public transit data [https://developers.google.com/transit/gtfs/](https://developers.google.com/transit/gtfs/) or [https://digitransit.fi/en/developers/](https://digitransit.fi/en/developers/) and open map data [https://www.openstreetmap.org](https://www.openstreetmap.org) have also been popular.
 
 ## Data compression
