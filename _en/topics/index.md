@@ -18,7 +18,7 @@ You can either come up with your own topic or pick one from the ones below. The 
 
 * Maps for pathfinding can be found at [Moving AI Lab](http://www.movingai.com/benchmarks/) and the [downloads site](http://kartat.kapsi.fi/) for the National Land Survey of Finland.
 
-* Implement a visualization of the path and covered nodes / jump points at early stage of development. Otherwise it is difficult to see whether the algorithm is correct. Although there may be data of certain paths and their lengths with your maps, a correct length does not guarantee that the algorithm works like it should. The visualization helps both checking the correctness of a complete work and finding errors during the development.
+* Implement visualization of the path and covered nodes / jump points at early stage of development. Otherwise it is difficult to see whether the algorithm is correct. Although there may be data of certain paths and their lengths with your maps, a correct length does not guarantee that the algorithm works like it should. Visualization helps both checking the correctness of a complete work and finding errors during the development.
 
 * Public transit data [https://developers.google.com/transit/gtfs/](https://developers.google.com/transit/gtfs/) or [https://digitransit.fi/en/developers/](https://digitransit.fi/en/developers/) and open map data [https://www.openstreetmap.org](https://www.openstreetmap.org) have also been popular.
 
@@ -41,6 +41,9 @@ You can either come up with your own topic or pick one from the ones below. The 
 * [Minesweeper](https://en.wikipedia.org/wiki/Minesweeper_(video_game)) is another popular puzzle. Why not create a solver/helper using the project template avaialble at [https://github.com/TiraLabra/minesweeper](https://github.com/TiraLabra/minesweeper)
 
 * [halite](https://halite.io/) AI. Or any other similar online AI challenge.
+
+## Computational Creativity
+Creativity can be implemented e.g. with genetic algorithms or Markov chains. A Markov chain is a stochastic process where each state depends only on the previous state or a fixed number on previous states. You can generate for example natural like words or sentences with them. Some previous projects have been on Markov chains for composing music.
 
 ## Dungeon generator
 * A fairly popular topic is creating dungeons for games such as Rogue or NetHack. There exist several algorithms that can be implemented or you could just roll your own. Generation can be either entirely done before hand or be dynamic.
