@@ -43,6 +43,9 @@ Aiheen voi keksiä itse, tai valita alla olevasta listasta itselleen mielenkiint
 
 * [halite](https://halite.io/) tekoäly. Tai muu internetistä löytyvä tekoälyhaaste.
 
+## Laskennallinen luovuus
+Luovuutta voi toteuttaa esimerkiksi geneettisten algoritmien tai Markovin ketjujen avulla. Markovin ketju on prosessi, jossa kukin tila riippuu vain edellisestä tilasta, tai tässä tapauksessa yleensä jostain kiinteästä määrästä edellisiä tiloja. Näin voidaan tuottaa vaikka luonnollisen kaltaisia sanoja tai lauseita. Tällä kurssilla on tehty myös sävellyksiä käyttäen Markovin ketjuja.
+
 ## Luolastogeneraattori
 * Suosituksi noussut aihe on esimerkiksi rogue-peleissä käytettävien luolien generointi. Tähän on tarjolla valmiita algoritmejä joita voi toteuttaa, mutta oma toteutus on myös täysin mahdollinen. Luolaston generointi voi joko olla etukäteen tapahtuva tai dynaamisesti pelin aikana kehittyvä pelaajan liikkumisen mukaan.
 
